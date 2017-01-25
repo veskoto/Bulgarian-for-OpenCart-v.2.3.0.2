@@ -4,11 +4,11 @@
  * Author: Veselin Totev (veselin.totev@gmail.com)
  * License: Free to use
  * Donate:
- *      PayPal: veskoto@gmail.com
+ *      PayPal: veselin.totev@gmail.com
  *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
  */
 // Heading
-$_['heading_title']			= 'Повтарящи се плащания';
+$_['heading_title']			    = 'Повтарящи се плащания';
 
 // Text
 $_['text_success']          = 'Успешно: Променихте повтарящи се плащания!';

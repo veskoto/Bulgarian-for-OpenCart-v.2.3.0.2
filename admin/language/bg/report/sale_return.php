@@ -1,22 +1,30 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']     = 'Returns Report';
+$_['heading_title']     = 'Доклад за върнати поръчки';
 
 // Text
-$_['text_list']         = 'Returns List';
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+$_['text_list']         = 'Списък';
+$_['text_year']         = 'Години';
+$_['text_month']        = 'Месеца';
+$_['text_week']         = 'Седмици';
+$_['text_day']          = 'Дни';
+$_['text_all_status']   = 'Всички статуси';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_returns']    = 'No. Returns';
+$_['column_date_start'] = 'Начална дата';
+$_['column_date_end']   = 'Крайна дата';
+$_['column_returns']    = 'Брой върнати поръчки';
 
 // Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
-$_['entry_group']       = 'Group By';
-$_['entry_status']      = 'Return Status';
+$_['entry_date_start']  = 'Начална дата';
+$_['entry_date_end']    = 'Крайна дата';
+$_['entry_group']       = 'Групиране по';
+$_['entry_status']      = 'Статус на върнати поръчки';

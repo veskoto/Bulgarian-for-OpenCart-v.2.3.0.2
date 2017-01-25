@@ -1,30 +1,38 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']    = 'Weight Classes';
+$_['heading_title']    = 'Теглови класове';
 
 // Text
-$_['text_success']     = 'Success: You have modified weight classes!';
-$_['text_list']        = 'Weight Class List';
-$_['text_add']         = 'Add Weight Class';
-$_['text_edit']        = 'Edit Weight Class';
+$_['text_success']     = 'Успешно: Променихте теглови класове!';
+$_['text_list']        = 'Списък';
+$_['text_add']         = 'Добавяне';
+$_['text_edit']        = 'Редакция';
 
 // Column
-$_['column_title']     = 'Weight Title';
-$_['column_unit']      = 'Weight Unit';
-$_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_title']     = 'Заглавие';
+$_['column_unit']      = 'Мерна единица';
+$_['column_value']     = 'Стойност';
+$_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_title']      = 'Weight Title';
-$_['entry_unit']       = 'Weight Unit';
-$_['entry_value']      = 'Value';
+$_['entry_title']      = 'Заглавие';
+$_['entry_unit']       = 'Мерна единица';
+$_['entry_value']      = 'Стойност';
 
 // Help
-$_['help_value']       = 'Set to 1.00000 if this is your default weight.';
+$_['help_value']       = 'Задайте 1.00000 ако това е Вашата мерна единица по подразбиране.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify weight classes!';
-$_['error_title']      = 'Weight Title must be between 3 and 32 characters!';
-$_['error_unit']       = 'Weight Unit must be between 1 and 4 characters!';
-$_['error_default']    = 'Warning: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
-$_['error_product']    = 'Warning: This weight class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на теглови класове!';
+$_['error_title']      = 'Заглавието трябва да е между 3 и 32 символа!';
+$_['error_unit']       = 'Мерната единица трябва да е между 1 и 4 символа!';
+$_['error_default']    = 'Внимание: Тази мерна единица не може да бъде изтрита, защото е зададена за основна!';
+$_['error_product']    = 'Внимание: Тази мерна единица не може да бъде изтрита, защото се ползва от %s продукта!';

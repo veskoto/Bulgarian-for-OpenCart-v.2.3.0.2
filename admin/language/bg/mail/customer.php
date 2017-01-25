@@ -1,13 +1,21 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Text
-$_['text_approve_subject']      = '%s - Your Account has been activated!';
-$_['text_approve_welcome']      = 'Welcome and thank you for registering at %s!';
-$_['text_approve_login']        = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_approve_services']     = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_approve_thanks']       = 'Thanks,';
-$_['text_transaction_subject']  = '%s - Account Credit';
-$_['text_transaction_received'] = 'You have received %s credit!';
-$_['text_transaction_total']    = 'Your total amount of credit is now %s.' . "\n\n" . 'Your account credit will be automatically deducted from your next purchase.';
-$_['text_reward_subject']       = '%s - Reward Points';
-$_['text_reward_received']      = 'You have received %s Reward Points!';
-$_['text_reward_total']         = 'Your total number of reward points is now %s.';
+$_['text_approve_subject']      = '%s - Вашият акаунт е активиран!';
+$_['text_approve_welcome']      = 'Добре дошли и благодаря за регистриране на %s!';
+$_['text_approve_login']        = 'Профилът ви вече е създаден и можете да влезете в системата с помощта на Вашия имейл адрес и парола, като посетите нашия сайт или на следния адрес:';
+$_['text_approve_services']     = 'При влизане в системата, ще имате достъп до други услуги, включително преглед на последните поръчки, печат на фактури и редактиране на информацията за профила си.';
+$_['text_approve_thanks']       = 'Благодарим,';
+$_['text_transaction_subject']  = '%s - Кредит на акаунта';
+$_['text_transaction_received'] = 'Вие получихте %s кредит!';
+$_['text_transaction_total']    = 'Вашият общ размер на кредита сега е %s.' . "\n\n" . 'Вашият кредит ще бъде автоматично приспаднат от следващата Ви покупка.';
+$_['text_reward_subject']       = '%s - Бонус точки';
+$_['text_reward_received']      = 'Вие получихте %s бонус точки!';
+$_['text_reward_total']         = 'Вашият общ размер на бонус точки сега е %s.';

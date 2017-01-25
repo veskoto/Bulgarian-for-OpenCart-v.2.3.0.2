@@ -1,16 +1,24 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']    = 'Pickup From Store';
+$_['heading_title']    = 'Вземане от магазина';
 
 // Text
-$_['text_shipping']    = 'Shipping';
-$_['text_success']     = 'Success: You have modified pickup from store!';
-$_['text_edit']        = 'Edit Pickup From Store Shipping';
+$_['text_shipping']    = 'Доставка';
+$_['text_success']     = 'Успешно: Променихте вземане от магазина!';
+$_['text_edit']        = 'Редакция';
 
 // Entry
-$_['entry_geo_zone']   = 'Geo Zone';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_geo_zone']   = 'Географска зона';
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Подредба';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify pickup from store!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на вземане от магазина!';

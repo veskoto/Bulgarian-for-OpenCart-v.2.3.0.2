@@ -4,7 +4,7 @@
  * Author: Veselin Totev (veselin.totev@gmail.com)
  * License: Free to use
  * Donate:
- *      PayPal: veskoto@gmail.com
+ *      PayPal: veselin.totev@gmail.com
  *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
  */
 // Heading
@@ -46,8 +46,8 @@ $_['entry_safe']            = 'Запази';
 $_['entry_password']        = 'Парола';
 $_['entry_confirm']         = 'Порвърди';
 $_['entry_company']         = 'Фирма';
-$_['entry_address_1']       = 'Адрес 1';
-$_['entry_address_2']       = 'Адрес 2';
+$_['entry_address_1']       = 'Адрес';
+$_['entry_address_2']       = 'Допълнение към адреса';
 $_['entry_city']            = 'Град';
 $_['entry_postcode']        = 'Пощенски код';
 $_['entry_country']         = 'Държава';
@@ -75,7 +75,7 @@ $_['error_email']           = 'Невалиден имейл адрес!';
 $_['error_telephone']       = 'Телефона трябва да е между 3 и 32 символа!';
 $_['error_password']        = 'Паролата трябва да е между 4 и 20 символа!';
 $_['error_confirm']         = 'Паролите не съвпадат!';
-$_['error_address_1']       = 'Адрес 1 трябва да е между 3 и 128 символа!';
+$_['error_address_1']       = 'Адрес трябва да е между 3 и 128 символа!';
 $_['error_city']            = 'Градът трябва да е между 2 и 128 символа!';
 $_['error_postcode']        = 'Пощенският код трябва да е между 2 и 10 символа за тази държава!';
 $_['error_country']         = 'Моля изберете държава!';

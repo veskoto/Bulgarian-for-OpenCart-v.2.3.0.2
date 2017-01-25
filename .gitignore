@@ -3,6 +3,7 @@ admin/controller
 admin/model/
 admin/view/
 admin/language/en-gb/
+admin/language/english/
 admin/language/old-bg/
 catalog/controller/
 catalog/model/

@@ -4,7 +4,7 @@
  * Author: Veselin Totev (veselin.totev@gmail.com)
  * License: Free to use
  * Donate:
- *      PayPal: veskoto@gmail.com
+ *      PayPal: veselin.totev@gmail.com
  *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
  */
 // Text
@@ -40,7 +40,7 @@ $_['text_localisation']                = 'Локализация';
 $_['text_location']                    = 'Местоположение на магазина';
 $_['text_contact']                     = 'Имейл';
 $_['text_marketing']                   = 'Маркетинг';
-$_['text_menu']                      = 'Menu Manager';
+$_['text_menu']                      = 'Menu Manager'; //TODO: Where is it?
 $_['text_modification']              = 'Модификации';
 $_['text_manufacturer']              = 'Производители';
 $_['text_option']                      = 'Опции';
@@ -76,39 +76,39 @@ $_['text_return_status']             = 'Статус на върнати сто�
 $_['text_sale']                      = 'Продажби';
 $_['text_setting']                   = 'Настройки';
 $_['text_store']                     = 'Extension Store';
-$_['text_stock_status']              = 'Stock Statuses';
+$_['text_stock_status']              = 'Статуси на продуктите';
 $_['text_system']                    = 'Системни';
 $_['text_tax']                       = 'Такси';
-$_['text_tax_class']                 = 'Tax Classes';
-$_['text_tax_rate']                  = 'Tax Rates';
-$_['text_translation']               = 'Language Editor';
-$_['text_theme']                     = 'Theme Editor';
-$_['text_tools']                     = 'Tools';
-$_['text_upload']                    = 'Uploads';
-$_['text_user']                      = 'Users';
-$_['text_users']                     = 'Users';
-$_['text_user_group']                = 'User Groups';
-$_['text_voucher']                   = 'Gift Vouchers';
-$_['text_voucher_theme']             = 'Voucher Themes';
-$_['text_weight_class']              = 'Weight Classes';
-$_['text_length_class']              = 'Length Classes';
-$_['text_zone']                      = 'Zones';
-$_['text_recurring']                 = 'Recurring Profiles';
-$_['text_order_recurring']           = 'Recurring Orders';
+$_['text_tax_class']                 = 'Данъци';
+$_['text_tax_rate']                  = 'Такси';
+$_['text_translation']               = 'Редакция на езика';
+$_['text_theme']                     = 'Редакция на дизайна';
+$_['text_tools']                     = 'Инструменти';
+$_['text_upload']                    = 'Качвания';
+$_['text_user']                      = 'Потребители';
+$_['text_users']                     = 'Потребители';
+$_['text_user_group']                = 'Групи потребители';
+$_['text_voucher']                   = 'Подаръчни ваучери';
+$_['text_voucher_theme']             = 'Дизайни на ваучерите';
+$_['text_weight_class']              = 'Типове тегло';
+$_['text_length_class']              = 'Типове дължини';
+$_['text_zone']                      = 'Зони';
+$_['text_recurring']                 = 'Повтарящи се плащания';
+$_['text_order_recurring']           = 'Повтарящи се плащания по поръчки';
 $_['text_openbay_extension']         = 'OpenBay Pro';
-$_['text_openbay_dashboard']         = 'Dashboard';
-$_['text_openbay_orders']            = 'Bulk order update';
-$_['text_openbay_items']             = 'Manage items';
+$_['text_openbay_dashboard']         = 'Табло';
+$_['text_openbay_orders']            = 'Групова актуализация на поръчки';
+$_['text_openbay_items']             = 'Управление на ????? (items)';
 $_['text_openbay_ebay']              = 'eBay';
 $_['text_openbay_amazon']            = 'Amazon (EU)';
 $_['text_openbay_amazonus']          = 'Amazon (US)';
 $_['text_openbay_etsy']            	 = 'Etsy';
-$_['text_openbay_settings']          = 'Settings';
-$_['text_openbay_links']             = 'Item links';
-$_['text_openbay_report_price']      = 'Pricing report';
-$_['text_openbay_order_import']      = 'Order import';
+$_['text_openbay_settings']          = 'Настройки';
+$_['text_openbay_links']             = 'Линкове на ????? (items)';
+$_['text_openbay_report_price']      = 'Доклад ценообразуване';
+$_['text_openbay_order_import']      = 'Импортиране на поръчка';
 $_['text_paypal']                    = 'PayPal';
-$_['text_paypal_search']             = 'Search';
-$_['text_complete_status']           = 'Orders Completed';
-$_['text_processing_status']         = 'Orders Processing';
-$_['text_other_status']              = 'Other Statuses';
+$_['text_paypal_search']             = 'Търсене';
+$_['text_complete_status']           = 'Завършени поръчки';
+$_['text_processing_status']         = 'Поръчки в обработка';
+$_['text_other_status']              = 'Статуси на поръчките';

@@ -4,7 +4,7 @@
  * Author: Veselin Totev (veselin.totev@gmail.com)
  * License: Free to use
  * Donate:
- *      PayPal: veskoto@gmail.com
+ *      PayPal: veselin.totev@gmail.com
  *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
  */
 // Heading
@@ -12,7 +12,7 @@ $_['heading_title']        = 'Инсталиране на модули';
 
 // Text
 $_['text_upload']          = 'Добавете модул';
-$_['text_success']         = 'Успешно: Инсталирахте приложение!';
+$_['text_success']         = 'Успешно: Инсталирахте модул!';
 $_['text_unzip']           = 'Извличане на файлове!';
 $_['text_ftp']             = 'Копиране на файлове!';
 $_['text_sql']             = 'Извличане на SQL!';

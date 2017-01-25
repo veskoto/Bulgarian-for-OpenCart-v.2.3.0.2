@@ -1,19 +1,27 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']     = 'Modifications';
+$_['heading_title']     = 'Модификации';
 
 // Text
-$_['text_success']      = 'Success: You have modified modifications!';
-$_['text_refresh']      = 'Whenever you enable / disable or delete a modification you need to click the refresh button to rebuild your modification cache!';
-$_['text_list']         = 'Modification List';
+$_['text_success']      = 'Успешно: Променихте модификации!';
+$_['text_refresh']      = 'Всеки път, когато включите / изключите или изтриване на модификация, трябва да кликнете върху бутона за опресняване, за да се обнови кеша на модификацията!';
+$_['text_list']         = 'Списък';
 
 // Column
-$_['column_name']       = 'Modification Name';
-$_['column_author']     = 'Author';
-$_['column_version']    = 'Version';
-$_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Заглавие';
+$_['column_author']     = 'Автор';
+$_['column_version']    = 'Версия';
+$_['column_status']     = 'Статус';
+$_['column_date_added'] = 'Дата на добавяне';
+$_['column_action']     = 'Действие';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify modifications!';
+$_['error_permission']  = 'Внимание: Вие нямате права за промяна на модификации!';

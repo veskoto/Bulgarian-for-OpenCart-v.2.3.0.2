@@ -1,21 +1,29 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']  = 'Extensions';
+$_['heading_title']  = 'Модули';
 
 // Text
-$_['text_success']   = 'Success: You have modified extensions!';
-$_['text_list']      = 'Extension List';
-$_['text_type']      = 'Choose the extension type';
-$_['text_filter']    = 'Filter';
-$_['text_analytics'] = 'Analytics';
-$_['text_captcha']   = 'Captcha';
-$_['text_dashboard'] = 'Dashboard';
-$_['text_feed']      = 'Feeds';
-$_['text_fraud']     = 'Anti-Fraud';
-$_['text_module']    = 'Modules';
-$_['text_content']   = 'Content Modules';
-$_['text_menu']      = 'Menu Modules';
-$_['text_payment']   = 'Payments';
-$_['text_shipping']  = 'Shipping';
-$_['text_theme']     = 'Themes';
-$_['text_total']     = 'Order Totals';
+$_['text_success']   = 'Success: Променихте модули!';
+$_['text_list']      = 'Списък';
+$_['text_type']      = 'Изберете типа модул';
+$_['text_filter']    = 'Филтър';
+$_['text_analytics'] = 'Анализ';
+$_['text_captcha']   = 'Антибот';
+$_['text_dashboard'] = 'Табло';
+$_['text_feed']      = 'Информационни канали';
+$_['text_fraud']     = 'Борба с измамите';
+$_['text_module']    = 'Модули';
+$_['text_content']   = 'Модули за съдържание';
+$_['text_menu']      = 'Модули за менюта';
+$_['text_payment']   = 'Плащания';
+$_['text_shipping']  = 'Доставка';
+$_['text_theme']     = 'Дизайни';
+$_['text_total']     = 'Общо поръчки';

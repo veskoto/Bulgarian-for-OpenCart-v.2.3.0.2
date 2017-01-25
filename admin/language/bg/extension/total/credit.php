@@ -1,15 +1,23 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']    = 'Store Credit';
+$_['heading_title']    = 'Кредит от магазина';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified store credit total!';
-$_['text_edit']        = 'Edit Store Credit Total';
+$_['text_total']       = 'Общо поръчки';
+$_['text_success']     = 'Успешно: Променихте кредит от магазина!';
+$_['text_edit']        = 'Редакция';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Подредба';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store credit total!';
+$_['error_permission']  = 'Внимание: Вие нямате права за промяна на купони!';

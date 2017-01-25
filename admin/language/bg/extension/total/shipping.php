@@ -1,16 +1,24 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']    = 'Shipping';
+$_['heading_title']    = 'Доставка';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified shipping total!';
-$_['text_edit']        = 'Edit Shipping Total';
+$_['text_total']       = 'Всичко поръчки';
+$_['text_success']     = 'Успешно: Променихте доставка!';
+$_['text_edit']        = 'Редакция Shipping Total';
 
 // Entry
-$_['entry_estimator']  = 'Shipping Estimator';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_estimator']  = 'Оценка на доставката';
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Подредба';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify shipping total!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на доставка!';

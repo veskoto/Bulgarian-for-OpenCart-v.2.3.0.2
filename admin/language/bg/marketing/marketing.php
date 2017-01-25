@@ -1,34 +1,42 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']     = 'Marketing Tracking';
+$_['heading_title']     = 'Проследяване на маркетинг кампании';
 
 // Text
-$_['text_success']      = 'Success: You have modified marketing tracking!';
-$_['text_list']         = 'Marketing Tracking List';
-$_['text_add']          = 'Add Marketing Tracking';
-$_['text_edit']         = 'Edit Marketing Tracking';
+$_['text_success']      = 'Успешно: Променихте проследяване на маркетинг кампании!';
+$_['text_list']         = 'Списък';
+$_['text_add']          = 'Добавяне';
+$_['text_edit']         = 'Редакция';
 
 // Column
-$_['column_name']       = 'Campaign Name';
-$_['column_code']       = 'Code';
-$_['column_clicks']     = 'Clicks';
-$_['column_orders']     = 'Orders';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Име на кампанията';
+$_['column_code']       = 'Код за проследяване';
+$_['column_clicks']     = 'Кликвания';
+$_['column_orders']     = 'Поръчки';
+$_['column_date_added'] = 'Датата на добавяне';
+$_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Campaign Name';
-$_['entry_description'] = 'Campaign Description';
-$_['entry_code']        = 'Tracking Code';
-$_['entry_example']     = 'Examples';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_name']        = 'Име на кампанията';
+$_['entry_description'] = 'Описание';
+$_['entry_code']        = 'Код за проследяване';
+$_['entry_example']     = 'Примери';
+$_['entry_date_added']  = 'Датата на добавяне';
 
 // Help
-$_['help_code']         = 'The tracking code that will be used to track marketing campaigns.';
-$_['help_example']      = 'So the system can track referrals you need to add the tracking code to the end of the URL linking to your site.';
+$_['help_code']         = 'Кодът за проследяване, които ще бъдат използван за маркетингово проследяване на кампании.';
+$_['help_example']      = 'Така че системата за да може проследява референции трябва да добавите кода за проследяване на края на URL адреса към вашия сайт.';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify marketing tracking!';
-$_['error_name']        = 'Campaign must be between 1 and 32 characters!';
-$_['error_code']        = 'Tracking Code required!';
-$_['error_exists']      = 'Tracking code is being used by another campaign!';
+$_['error_permission']  = 'Внимание: Нямате права за редакция на проследяване на маркетинг кампании!';
+$_['error_name']        = 'Името на кампанията трябва да е между 1 и 32 символа!';
+$_['error_code']        = 'Кодът за проследяване е задължителен!';
+$_['error_exists']      = 'Кодът за проследяване се използва от друг кампания!';

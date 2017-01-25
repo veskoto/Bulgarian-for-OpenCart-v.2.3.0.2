@@ -1,65 +1,73 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']                = 'Stores';
+$_['heading_title']                    = 'Магазини';
 
 // Text
-$_['text_settings']                = 'Settings';
-$_['text_success']                 = 'Success: You have modified Stores!';
-$_['text_list']                    = 'Store List';
-$_['text_add']                     = 'Add Store';
-$_['text_edit']                    = 'Edit Store';
-$_['text_items']                   = 'Items';
-$_['text_tax']                     = 'Taxes';
-$_['text_account']                 = 'Account';
-$_['text_checkout']                = 'Checkout';
-$_['text_stock']                   = 'Stock';
-$_['text_shipping']                = 'Shipping Address';
-$_['text_payment']                 = 'Payment Address';
+$_['text_settings']                    = 'Настройки';
+$_['text_success']                     = 'Успешно: Променихте магазини!';
+$_['text_list']                        = 'Списък';
+$_['text_add']                         = 'Добавяне';
+$_['text_edit']                        = 'Редакция';
+$_['text_items']                       = 'Артикули';
+$_['text_tax']                         = 'Данъци';
+$_['text_account']                     = 'Профили';
+$_['text_checkout']                    = 'Плащания';
+$_['text_stock']                       = 'Наличности';
+$_['text_shipping']                    = 'Адрес за доставка';
+$_['text_payment']                     = 'Адрес за плащане';
 
 // Column
-$_['column_name']                  = 'Store Name';
-$_['column_url']	               = 'Store URL';
-$_['column_action']                = 'Action';
+$_['column_name']                      = 'Име на магазина';
+$_['column_url']	                     = 'URL на магазина';
+$_['column_action']                    = 'Действие';
 
 // Entry
-$_['entry_url']                    = 'Store URL';
-$_['entry_ssl']                    = 'SSL URL';
-$_['entry_meta_title']             = 'Meta Title';
-$_['entry_meta_description']       = 'Meta Tag Description';
-$_['entry_meta_keyword']           = 'Meta Tag Keywords';
-$_['entry_layout']                 = 'Default Layout';
-$_['entry_theme']                  = 'Theme';
-$_['entry_name']                   = 'Store Name';
-$_['entry_owner']                  = 'Store Owner';
-$_['entry_address']                = 'Address';
-$_['entry_geocode']                = 'Geocode';
-$_['entry_email']                  = 'E-Mail';
-$_['entry_telephone']              = 'Telephone';
-$_['entry_fax']                    = 'Fax';
-$_['entry_image']                  = 'Image';
-$_['entry_open']                   = 'Opening Times';
-$_['entry_comment']                = 'Comment';
-$_['entry_location']               = 'Store Location';
-$_['entry_country']                = 'Country';
-$_['entry_zone']                   = 'Region / State';
-$_['entry_language']               = 'Language';
-$_['entry_currency']               = 'Currency';
-$_['entry_tax']                    = 'Display Prices With Tax';
-$_['entry_tax_default']            = 'Use Store Tax Address';
-$_['entry_tax_customer']           = 'Use Customer Tax Address';
-$_['entry_customer_group']         = 'Customer Group';
-$_['entry_customer_group_display'] = 'Customer Groups';
-$_['entry_customer_price']         = 'Login Display Prices';
-$_['entry_account']                = 'Account Terms';
-$_['entry_cart_weight']            = 'Display Weight on Cart Page';
-$_['entry_checkout_guest']         = 'Guest Checkout';
-$_['entry_checkout']               = 'Checkout Terms';
-$_['entry_order_status']           = 'Order Status';
-$_['entry_stock_display']          = 'Display Stock';
-$_['entry_stock_checkout']         = 'Stock Checkout';
-$_['entry_logo']                   = 'Store Logo';
-$_['entry_icon']                   = 'Icon';
-$_['entry_secure']                 = 'Use SSL';
+$_['entry_url']                        = 'URL на магазина';
+$_['entry_ssl']                        = 'SSL URL';
+$_['entry_meta_title']                 = 'Мета заглавие на магазина';
+$_['entry_meta_description']           = 'Мета описание на магазина';
+$_['entry_meta_keyword']               = 'Мета ключови думи на магазина';
+$_['entry_layout']                     = 'Основен макет';
+$_['entry_theme']                      = 'Дизайн';
+$_['entry_name']                       = 'Име на магазина';
+$_['entry_owner']                      = 'Собственик на магазина';
+$_['entry_address']                    = 'Адрес';
+$_['entry_geocode']                    = 'Координати';
+$_['entry_email']                      = 'Имейл';
+$_['entry_telephone']                  = 'Телефон';
+$_['entry_fax']                        = 'Факс';
+$_['entry_image']                      = 'Изображение';
+$_['entry_open']                       = 'Работно време';
+$_['entry_comment']                    = 'Коментар';
+$_['entry_location']                   = 'Местоположение на магазина';
+$_['entry_country']                    = 'Държава';
+$_['entry_zone']                       = 'Област';
+$_['entry_language']                   = 'Език';
+$_['entry_currency']                   = 'Валута';
+$_['entry_tax']                        = 'Показване на цените с данъци';
+$_['entry_tax_default']                = 'Използвайте данъчен адрес на магазина';
+$_['entry_tax_customer']               = 'Използвайте данъчен адрес на клиента';
+$_['entry_customer_group']             = 'Клиентска група';
+$_['entry_customer_group_display']     = 'Клиентски групи';
+$_['entry_customer_price']             = 'Показване на цените само за логнати потребители';
+$_['entry_account']                    = 'Условия за позлване';
+$_['entry_cart_weight']                = 'Показване на теглото в страницата на количката';
+$_['entry_checkout_guest']             = 'Плащания от гости';
+$_['entry_checkout']                   = 'Условия за ползване';
+$_['entry_order_status']               = 'Статус на поръчката';
+$_['entry_stock_display']              = 'Покажи наличност';
+$_['entry_stock_checkout']             = 'Наличност на закупуването';
+$_['entry_logo']                       = 'Лого на сайта';
+$_['entry_icon']                       = 'Икона на сайта';
+$_['entry_secure']                     = 'Изпозлвай SSL';
 
 // Help
 $_['help_url']                     = 'Include the full URL to your store. Make sure to add \'/\' at the end. Example: http://www.yourdomain.com/path/<br /><br />Don\'t use directories to create a new store. You should always point another domain or sub domain to your hosting.';

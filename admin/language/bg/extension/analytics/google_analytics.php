@@ -4,7 +4,7 @@
  * Author: Veselin Totev (veselin.totev@gmail.com)
  * License: Free to use
  * Donate:
- *      PayPal: veskoto@gmail.com
+ *      PayPal: veselin.totev@gmail.com
  *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
  */
 $_['heading_title']    = 'Google статистика';

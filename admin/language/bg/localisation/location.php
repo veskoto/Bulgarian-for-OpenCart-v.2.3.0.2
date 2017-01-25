@@ -1,38 +1,46 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']    = 'Store Locations';
+$_['heading_title']    = 'Местонахождения на магазини';
 
 // Text
-$_['text_success']     = 'Success: You have modified store locations!';
-$_['text_list']        = 'Store Location List';
-$_['text_add']         = 'Add Store Location';
-$_['text_edit']        = 'Edit Store Location';
-$_['text_default']     = 'Default';
-$_['text_time']        = 'Opening Times';
-$_['text_geocode']     = 'Geocode was not successful for the following reason:';
+$_['text_success']     = 'Успешно: Променихте местонахождения!';
+$_['text_list']        = 'Списък';
+$_['text_add']         = 'Добавяне';
+$_['text_edit']        = 'Редакция';
+$_['text_default']     = 'Основен';
+$_['text_time']        = 'Работно време';
+$_['text_geocode']     = 'Координати не се записаха успешно поради следната причина:';
 
 // Column
-$_['column_name']      = 'Store Name';
-$_['column_address']   = 'Address';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Име на магазина';
+$_['column_address']   = 'Адрес';
+$_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_name']       = 'Store Name';
-$_['entry_address']    = 'Address';
-$_['entry_geocode']    = 'Geocode';
-$_['entry_telephone']  = 'Telephone';
-$_['entry_fax']        = 'Fax';
-$_['entry_image']      = 'Image';
-$_['entry_open']       = 'Opening Times';
-$_['entry_comment']    = 'Comment';
+$_['entry_name']       = 'Име на магазина';
+$_['entry_address']    = 'Адрес';
+$_['entry_geocode']    = 'Координати';
+$_['entry_telephone']  = 'Телефон';
+$_['entry_fax']        = 'Факс';
+$_['entry_image']      = 'Изображение';
+$_['entry_open']       = 'Работно време';
+$_['entry_comment']    = 'Коментар';
 
 // Help
-$_['help_geocode']     = 'Please enter your store location geocode manually.';
-$_['help_open']        = 'Fill in your stores opening times.';
-$_['help_comment']     = 'This field is for any special notes you would like to tell the customer i.e. Store does not accept cheques.';
+$_['help_geocode']     = 'Моля, въведете вашите координати ръчно.';
+$_['help_open']        = 'Попълнете работно среме.';
+$_['help_comment']     = 'Това поле е за всички специални бележки, които бихте искали да кажете на клиентите. Например: Магазина не приема чекове.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store locations!';
-$_['error_name']       = 'Store name must be between 3 and 32 characters!';
-$_['error_address']    = 'Address must be between 3 and 128 characters!';
-$_['error_telephone']  = 'Telephone must be between 3 and 32 characters!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на местонахождения!';
+$_['error_name']       = 'Името на магазина трябва да бъде поне 1 символ!';
+$_['error_address']    = 'Адрес трябва да е между 3 и 128 символа!';
+$_['error_telephone']  = 'телефонът трябва да е между 3 и 32 символа!';

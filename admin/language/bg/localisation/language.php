@@ -1,37 +1,45 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']     = 'Languages';
+$_['heading_title']    = 'Езици';
 
 // Text
-$_['text_success']      = 'Success: You have modified languages!';
-$_['text_list']         = 'Language List';
-$_['text_add']          = 'Add Language';
-$_['text_edit']         = 'Edit Language';
+$_['text_success']     = 'Успешно: Променихте езици!';
+$_['text_list']        = 'Списък';
+$_['text_add']         = 'Добавяне';
+$_['text_edit']        = 'Редакция';
 
 // Column
-$_['column_name']       = 'Language Name';
-$_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Език';
+$_['column_code']       = 'Езиков код';
+$_['column_sort_order'] = 'Подредба';
+$_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Language Name';
-$_['entry_code']        = 'Code';
+$_['entry_name']        = 'Език';
+$_['entry_code']        = 'Езиков код';
 $_['entry_locale']      = 'Locale';
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_status']      = 'Статус';
+$_['entry_sort_order']  = 'Подредба';
 
 // Help
-$_['help_locale']       = 'Example: en_US.UTF-8,en_US,en-gb,en_gb,english';
-$_['help_status']       = 'Hide/Show it in language dropdown';
+$_['help_locale']       = 'Например: bg_BG.UTF-8,bg_BG,bg-bg,bulgarian';
+$_['help_status']       = 'Скриване/показване в падащото меню за избор на език';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify languages!';
-$_['error_exists']      = 'Warning: You added before the language!';
-$_['error_name']        = 'Language Name must be between 3 and 32 characters!';
-$_['error_code']        = 'Language Code must at least 2 characters!';
-$_['error_locale']      = 'Locale required!';
-$_['error_default']     = 'Warning: This language cannot be deleted as it is currently assigned as the default store language!';
-$_['error_admin']       = 'Warning: This Language cannot be deleted as it is currently assigned as the administration language!';
-$_['error_store']       = 'Warning: This language cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']       = 'Warning: This language cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']  = 'Внимание: Вие нямате права за промяна на езици!';
+$_['error_exists']      = 'Внимание: You added before the language!';
+$_['error_name']        = 'Наименованието трябва да бъде между 3 и 32 символа!';
+$_['error_code']        = 'Езиковия код трябва най-малко 2 символа!';
+$_['error_locale']      = 'Locale е задължителен!';
+$_['error_default']     = 'Внимание: Този език не може да се изтрие, тъй като понастоящем е определен като език по подразбиране на магазина!';
+$_['error_admin']       = 'Внимание: Този език не може да се изтрие, тъй като понастоящем е определен като език по подразбиране в администрация!';
+$_['error_store']       = 'Внимание: Този език не може да се изтрие, тъй като понастоящем е определен като език по подразбиране в %s магазина!';
+$_['error_order']       = 'Внимание: Този език не може да се изтрие, тъй като понастоящем е определен като език по подразбиране в %s поръчки!';

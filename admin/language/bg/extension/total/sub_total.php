@@ -1,15 +1,23 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
 $_['heading_title']    = 'Sub-Total';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified sub-total total!';
-$_['text_edit']        = 'Edit Sub-Total Total';
+$_['text_total']       = 'Всичко поръчки';
+$_['text_success']     = 'Успешно: Променихте sub-total total!';
+$_['text_edit']        = 'Редакция Sub-Total Total';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Подредба';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify sub-total total!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на sub-total total!';

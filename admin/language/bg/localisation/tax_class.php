@@ -1,30 +1,38 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veselin.totev@gmail.com
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
+ */
 // Heading
-$_['heading_title']     = 'Tax Classes';
+$_['heading_title']     = 'Данъчни класове';
 
 // Text
-$_['text_success']      = 'Success: You have modified tax classes!';
-$_['text_list']         = 'Tax Class List';
-$_['text_add']          = 'Add Tax Class';
-$_['text_edit']         = 'Edit Tax Class';
-$_['text_shipping']     = 'Shipping Address';
-$_['text_payment']      = 'Payment Address';
-$_['text_store']        = 'Store Address';
+$_['text_success']      = 'Успешно: Променихте данъчни класове!';
+$_['text_list']         = 'Списък';
+$_['text_add']          = 'Добавяне';
+$_['text_edit']         = 'Редакция';
+$_['text_shipping']     = 'Адрес за доставка';
+$_['text_payment']      = 'Адрес за плащане';
+$_['text_store']        = 'Адрес на магазина';
 
 // Column
-$_['column_title']      = 'Tax Class Title';
-$_['column_action']     = 'Action';
+$_['column_title']      = 'Данъчен клас';
+$_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_title']       = 'Tax Class Title';
-$_['entry_description'] = 'Description';
-$_['entry_rate']        = 'Tax Rate';
-$_['entry_based']       = 'Based On';
-$_['entry_geo_zone']    = 'Geo Zone';
-$_['entry_priority']    = 'Priority';
+$_['entry_title']       = 'Данъчен клас';
+$_['entry_description'] = 'Описание';
+$_['entry_rate']        = 'Данъчна ставка';
+$_['entry_based']       = 'Базирана на';
+$_['entry_geo_zone']    = 'Географска зона';
+$_['entry_priority']    = 'Приоритет';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify tax classes!';
-$_['error_title']       = 'Tax Class Title must be between 3 and 32 characters!';
-$_['error_description'] = 'Description must be between 3 and 255 characters!';
-$_['error_product']     = 'Warning: This tax class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Внимание: Нямате права за редакция на tax classes!';
+$_['error_title']       = 'Данъченият клас трябва да е между 3 и 32 символа!';
+$_['error_description'] = 'Описанието трябва да е между 3 и 255 символа!';
+$_['error_product']     = 'Внимание: Този данъчен клас не може да бъде изтрит, защото се ползва от %s продукта!';
