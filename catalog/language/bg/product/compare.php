@@ -1,22 +1,30 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']     = 'Product Comparison';
+$_['heading_title']     = 'Сравняване на продукти';
 
 // Text
-$_['text_product']      = 'Product Details';
-$_['text_name']         = 'Product';
-$_['text_image']        = 'Image';
-$_['text_price']        = 'Price';
-$_['text_model']        = 'Model';
-$_['text_manufacturer'] = 'Brand';
-$_['text_availability'] = 'Availability';
-$_['text_instock']      = 'In Stock';
-$_['text_rating']       = 'Rating';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_summary']      = 'Summary';
-$_['text_weight']       = 'Weight';
-$_['text_dimension']    = 'Dimensions (L x W x H)';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_success']      = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">product comparison</a>!';
-$_['text_remove']       = 'Success: You have modified your product comparison!';
-$_['text_empty']        = 'You have not chosen any products to compare.';
+$_['text_product']      = 'Детайли за артикула';
+$_['text_name']         = 'Продукт';
+$_['text_image']        = 'Изображение';
+$_['text_price']        = 'Цена';
+$_['text_model']        = 'Модел';
+$_['text_manufacturer'] = 'Производител';
+$_['text_availability'] = 'Наличност';
+$_['text_instock']      = 'В наличност';
+$_['text_rating']       = 'Рейтинг';
+$_['text_reviews']      = 'На база %s отзива.';
+$_['text_summary']      = 'Описание';
+$_['text_weight']       = 'Тегло';
+$_['text_dimension']    = 'Размери (Д х Ш х В)';
+$_['text_compare']      = 'Продукти за сравнение (%s)';
+$_['text_success']      = 'Успешно добавихте <a href="%s">%s</a> към <a href="%s">продуктите за сравняване</a>!';
+$_['text_remove']       = 'Успешно променихте вашия списък с продукт за сравнение!';
+$_['text_empty']        = 'Не сте избрали продукти за сравнение.';

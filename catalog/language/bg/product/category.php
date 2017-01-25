@@ -1,24 +1,32 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_refine']       = 'Refine Search';
-$_['text_product']      = 'Products';
-$_['text_error']        = 'Category not found!';
-$_['text_empty']        = 'There are no products to list in this category.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_refine']       = 'Филтрирано търсене';
+$_['text_product']      = 'Продукти';
+$_['text_error']        = 'Категорията не бе намерена!';
+$_['text_empty']        = 'Няма продукти в тази категория.';
+$_['text_quantity']     = 'Количество:';
+$_['text_manufacturer'] = 'Марка:';
+$_['text_model']        = 'Код на продукта:';
+$_['text_points']       = 'Наградни точки:';
+$_['text_price']        = 'Цена:';
+$_['text_tax']          = 'Без данък:';
+$_['text_compare']      = 'Продукти, добавени за сравняване: (%s)';
+$_['text_sort']         = 'Сортирай по:';
+$_['text_default']      = 'По подразбиране';
+$_['text_name_asc']     = 'Име (А - Я)';
+$_['text_name_desc']    = 'Име (Я - А)';
+$_['text_price_asc']    = 'Цена (възх.)';
+$_['text_price_desc']   = 'Цена (низх.)';
+$_['text_rating_asc']   = 'Рейтинг (възх.)';
+$_['text_rating_desc']  = 'Рейтинг (низх.)';
+$_['text_model_asc']    = 'Модел (А - Я)';
+$_['text_model_desc']   = 'Модел (Я - А)';
+$_['text_limit']        = 'Покажи:';

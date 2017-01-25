@@ -7,8 +7,8 @@ admin/language/old-bg/
 catalog/controller/
 catalog/model/
 catalog/view/
-catalog/language/old-bg/*
-catalog/language/en-gb/*
+catalog/language/old-bg/
+catalog/language/en-gb/
 image/
 install/
 system/

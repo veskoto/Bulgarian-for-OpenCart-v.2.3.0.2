@@ -1,6 +1,14 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_subject']  = '%s - Password reset request';
-$_['text_greeting'] = 'A new password was requested for %s customer account.';
-$_['text_change']   = 'To reset your password click on the link below:';
-$_['text_ip']       = 'The IP used to make this request was: %s';
+$_['text_subject']  = '%s - Нова парола';
+$_['text_greeting'] = 'Беше заявена нова парола от %s.';
+$_['text_change']   = 'За да възстановите паролата си, кликнете на линка по-долу:';
+$_['text_ip']       = 'IP адреса от който е направена заявката беше: %s';

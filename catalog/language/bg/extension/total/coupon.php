@@ -1,14 +1,22 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'Използване на купон';
 
 // Text
-$_['text_coupon']   = 'Coupon (%s)';
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
+$_['text_coupon'] = 'Купон (%s)';
+$_['text_success']  = 'Вашият купон е отчетен успешно!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'Попълнете вашия купон';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_empty']   = 'Warning: Please enter a coupon code!';
+$_['error_coupon']  = 'Внимание: Купона е невалиден, изтекъл или достигнал своя лимит за ползване!';
+$_['error_empty']   = 'Внимание: Моля, въведете код на купона!';

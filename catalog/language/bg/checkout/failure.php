@@ -1,20 +1,28 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title'] = 'Failed Payment!';
+$_['heading_title'] = 'Неуспешно плащане!';
 
 // Text
-$_['text_basket']   = 'Shopping Cart';
-$_['text_checkout'] = 'Checkout';
-$_['text_failure']  = 'Failed Payment';
-$_['text_message']  = '<p>There was a problem processing your payment and the order did not complete.</p>
+$_['text_basket']   = 'Количка';
+$_['text_checkout'] = 'Плащане';
+$_['text_failure']  = 'Неуспешно плащане';
+$_['text_message']  = '<p>Възникна проблем при обработката на плащането. Поръчката не е приключена.</p>
 
-<p>Possible reasons are:</p>
+<p>Възможни причина:</p>
 <ul>
-  <li>Insufficient funds</li>
-  <li>Verification failed</li>
+  <li>Недостатъчни средства</li>
+  <li>Неуспешна верификация</li>
 </ul>
 
-<p>Please try to order again using a different payment method.</p>
+<p>Моля, опитайте се, да си поръчате отново чрез различен начин на плащане.</p>
 
-<p>If the problem persists please <a href="%s">contact us</a> with the details of the order you are trying to place.</p>
+<p>В случай, че проблемът продължи, моля <a href="%s">свържете се с нас</a> относно поръчката.</p>
 ';

@@ -1,50 +1,58 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_search']              = 'Search';
-$_['text_brand']               = 'Brand';
-$_['text_manufacturer']        = 'Brand:';
-$_['text_model']               = 'Product Code:';
-$_['text_reward']              = 'Reward Points:';
-$_['text_points']              = 'Price in reward points:';
-$_['text_stock']               = 'Availability:';
-$_['text_instock']             = 'In Stock';
-$_['text_tax']                 = 'Ex Tax:';
-$_['text_discount']            = ' or more ';
-$_['text_option']              = 'Available Options';
-$_['text_minimum']             = 'This product has a minimum quantity of %s';
-$_['text_reviews']             = '%s reviews';
-$_['text_write']               = 'Write a review';
-$_['text_login']               = 'Please <a href="%s">login</a> or <a href="%s">register</a> to review';
-$_['text_no_reviews']          = 'There are no reviews for this product.';
-$_['text_note']                = '<span class="text-danger">Note:</span> HTML is not translated!';
-$_['text_success']             = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_related']             = 'Related Products';
-$_['text_tags']                = 'Tags:';
-$_['text_error']               = 'Product not found!';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
-$_['text_day']                 = 'day';
-$_['text_week']                = 'week';
-$_['text_semi_month']          = 'half-month';
-$_['text_month']               = 'month';
-$_['text_year']                = 'year';
+$_['text_search']              = 'Търсене';
+$_['text_brand']               = 'Производител';
+$_['text_manufacturer']        = 'Производител:';
+$_['text_model']               = 'Код на продукта:';
+$_['text_reward']              = 'Наградни точки:';
+$_['text_points']              = 'Цена в наградни точки:';
+$_['text_stock']               = 'Наличност:';
+$_['text_instock']             = 'В наличност';
+$_['text_tax']                 = 'Без данък:';
+$_['text_discount']            = ' или повече ';
+$_['text_option']              = 'Възможни варианти';
+$_['text_minimum']             = 'Продуктът има минимално количество %s';
+$_['text_reviews']             = '%s отзива';
+$_['text_write']               = 'Напишете отзив';
+$_['text_login']               = 'Моля влезете в <a href="%s">профила</a> или се <a href="%s">регистрирайте</a>, за да напишете отзив.';
+$_['text_no_reviews']          = 'Този продукт няма отзиви.';
+$_['text_note']                = '<span class="text-danger">Бележка:</span> HTML не е преведен!';
+$_['text_success']             = 'Благодарим Ви за отзива. Той беше изпратен за одобрение';
+$_['text_related']             = 'Свързани продукти';
+$_['text_tags']                = 'Тагове:';
+$_['text_error']               = 'Продуктът не е открит!';
+$_['text_payment_recurring']   = 'Профил плащания';
+$_['text_trial_description']   = '%s всеки %d %s(и) за %d плащания когато';
+$_['text_payment_description'] = '%s всеки %d %s(и) за %d плащания';
+$_['text_payment_cancel']      = '%s всеки %d %s(и) докато не е отменен';
+$_['text_day']                 = 'ден';
+$_['text_week']                = 'седмица';
+$_['text_semi_month']          = 'две седмици';
+$_['text_month']               = 'месец';
+$_['text_year']                = 'година';
 
 // Entry
-$_['entry_qty']                = 'Qty';
-$_['entry_name']               = 'Your Name';
-$_['entry_review']             = 'Your Review';
-$_['entry_rating']             = 'Rating';
-$_['entry_good']               = 'Good';
-$_['entry_bad']                = 'Bad';
+$_['entry_qty']                = 'Количество:';
+$_['entry_name']               = 'Вашето име';
+$_['entry_review']             = 'Вишият отзив';
+$_['entry_rating']             = 'Рейтинг';
+$_['entry_good']               = 'Добър';
+$_['entry_bad']                = 'Лош';
 
 // Tabs
-$_['tab_description']          = 'Description';
-$_['tab_attribute']            = 'Specification';
-$_['tab_review']               = 'Reviews (%s)';
+$_['tab_description']          = 'Описание';
+$_['tab_attribute']            = 'Спецификация';
+$_['tab_review']               = 'Отзиви (%s)';
 
 // Error
-$_['error_name']               = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']               = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']             = 'Warning: Please select a review rating!';
+$_['error_name']               = 'Внимание: Заглавието на отзива трябва да бъде между 3 и 25 символа!';
+$_['error_text']               = 'Внимание: Текстът на отзива трябва да бъде между 25 и 1000 символа!';
+$_['error_rating']             = 'Внимание: Моля, изберете рейтинг!';

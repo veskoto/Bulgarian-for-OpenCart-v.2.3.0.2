@@ -1,21 +1,29 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_subject']		        = '%s - Affiliate Program';
-$_['text_welcome']		        = 'Thank you for joining the %s Affiliate Program!';
-$_['text_login']                = 'Your account has now been created and you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_approval']		        = 'Your account must be approved before you can login. Once approved you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_services']		        = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']		        = 'Thanks,';
-$_['text_new_affiliate']        = 'New Affiliate';
-$_['text_signup']		        = 'A new affiliate has signed up:';
-$_['text_store']		        = 'Store:';
-$_['text_firstname']	        = 'Firstname:';
-$_['text_lastname']		        = 'Lastname:';
-$_['text_company']		        = 'Company:';
-$_['text_email']		        = 'E-Mail:';
-$_['text_telephone']	        = 'Telephone:';
-$_['text_website']		        = 'Web Site:';
-$_['text_order_id']             = 'Order ID:';
-$_['text_transaction_subject']  = '%s - Affiliate Commission';
-$_['text_transaction_received'] = 'You have received %s commission!';
-$_['text_transaction_total']    = 'Your total amount of commission is now %s.';
+$_['text_subject']		        = '%s - Партньорска програма';
+$_['text_welcome']		        = 'Благодарим ви за регистрирането ви в партньорската програма на %s!';
+$_['text_login']                = 'Профилът Ви вече е създаден и ще можете да влезете в системата с помощта на вашия е-мейл адрес и парола, като посетите нашия сайт или на следния адрес:';
+$_['text_approval']		        = 'Вашата заявка очаква разглеждане от администратор. Веднага след като бъде одобрена, ще можете да влезете в системата с посочената от вас при регистрацията е-поща и парола на следния адрес:';
+$_['text_services']		        = 'Когато вече сте в системата, ще можете да създавате и използвате проследяващи кодове и връзки, да си проследявате комисионите и плащанията, според резултатите от партньорската ви активност, да управлявате информацията за профила си и др.';
+$_['text_thanks']		        = 'Благодарим Ви,';
+$_['text_new_affiliate']        = 'Нов партньор';
+$_['text_signup']		        = 'Нов партньор беше записан:';
+$_['text_store']		        = 'Магазин:';
+$_['text_firstname']	        = 'Име:';
+$_['text_lastname']		        = 'Фамилия:';
+$_['text_company']		        = 'Фирма:';
+$_['text_email']		        = 'Имейл:';
+$_['text_telephone']	        = 'Телефон:';
+$_['text_website']		        = 'Сайт:';
+$_['text_order_id']             = 'Поръчка No:';
+$_['text_transaction_subject']  = '%s - Партньорска кчомисионна';
+$_['text_transaction_received'] = 'Получихте %s комисионна!';
+$_['text_transaction_total']    = 'Общият на размер на комисионната е %s.';

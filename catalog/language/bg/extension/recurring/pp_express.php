@@ -1,11 +1,19 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_title']          = 'PayPal Express Checkout';
-$_['text_canceled']       = 'Success: You have succesfully caneled this payment!';
+$_['text_title']              = 'PayPal експресно плащане';
+$_['text_canceled']       = 'Успешно: Вие успешно отказахте плащането!';
 
 // Button
-$_['button_cancel']       = 'Cancel Recurring Payment';
+$_['button_cancel']       = 'Отказ на повтарящо се плащане';
 
 // Error
-$_['error_not_cancelled'] = 'Error: %s';
-$_['error_not_found']     = 'Could not cancel recurring profile';
+$_['error_not_cancelled'] = 'Грешка: %s';
+$_['error_not_found']     = 'Не може да се анулира повтарящо се плащане';

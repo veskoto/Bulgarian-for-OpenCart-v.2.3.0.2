@@ -1,14 +1,22 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title'] = 'Use Gift Certificate';
+$_['heading_title'] = 'Използвайте ваучър';
 
 // Text
-$_['text_voucher']  = 'Gift Certificate (%s)';
-$_['text_success']  = 'Success: Your gift certificate discount has been applied!';
+$_['text_voucher'] = 'Ваучер (%s)';
+$_['text_success']  = 'Вашият ваучър е отчетен успешно!';
 
 // Entry
-$_['entry_voucher'] = 'Enter your gift certificate code here';
+$_['entry_voucher'] = 'Попълнете вашия ваучера';
 
 // Error
-$_['error_voucher'] = 'Warning: Gift Certificate is either invalid or the balance has been used up!';
-$_['error_empty']   = 'Warning: Please enter a gift certificate code!';
+$_['error_voucher'] = 'Внимание: Ваучера е невалиден, изтекъл или достигнал своя лимит за ползване!';
+$_['error_empty']   = 'Внимание: Моля, въведете код на ваучера!';

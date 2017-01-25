@@ -1,5 +1,5 @@
 <?php
-// Heading
+// Heading //TODO Translate
 $_['heading_title'] = 'Login with Amazon';
 
 // Text

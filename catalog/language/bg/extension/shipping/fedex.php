@@ -1,8 +1,16 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
 $_['text_title']                               = 'Fedex';
-$_['text_weight']                              = 'Weight:';
-$_['text_eta']                                 = 'Estimated Time:';
+$_['text_weight']                              = 'Тегло:';
+$_['text_eta']                                 = 'Очаквано време:';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
 $_['text_fedex_2_day']                         = 'Fedex 2 Day';

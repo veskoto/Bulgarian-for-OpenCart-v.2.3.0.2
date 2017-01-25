@@ -1,8 +1,16 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_subject']	= '%s - Product Review';
-$_['text_waiting']	= 'You have a new product review waiting.';
-$_['text_product']	= 'Product: %s';
-$_['text_reviewer']	= 'Reviewer: %s';
-$_['text_rating']	= 'Rating: %s';
-$_['text_review']	= 'Review Text:';
+$_['text_subject']	= '%s - Мнение за продукт';
+$_['text_waiting']	= 'Имате чакащи мнения за продукт.';
+$_['text_product']	= 'Продукт: %s';
+$_['text_reviewer']	= 'Потребител: %s';
+$_['text_rating']	= 'Рейтинг: %s';
+$_['text_review']	= 'Текст на мнение(отзив):';

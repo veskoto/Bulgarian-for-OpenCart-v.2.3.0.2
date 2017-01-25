@@ -1,21 +1,29 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Профил';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_reward']      = 'Reward Points';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
-$_['text_recurring']   = 'Recurring payments';
+$_['text_register']    = 'Регистрация';
+$_['text_login']       = 'Вход';
+$_['text_logout']      = 'Изход';
+$_['text_forgotten']   = 'Забравена парола';
+$_['text_account']     = 'Моят профил';
+$_['text_edit']        = 'Редакция на профила';
+$_['text_password']    = 'Парола';
+$_['text_address']     = 'Адресна книга';
+$_['text_wishlist']    = 'Желани продукти';
+$_['text_order']       = 'История на поръчките';
+$_['text_download']    = 'Изтегляния';
+$_['text_reward']      = 'Наградни точки';
+$_['text_return']      = 'Рекламации';
+$_['text_transaction'] = 'Трансакции';
+$_['text_newsletter']  = 'Бюлетин';
+$_['text_recurring']   = 'Повтарящи се плащания';

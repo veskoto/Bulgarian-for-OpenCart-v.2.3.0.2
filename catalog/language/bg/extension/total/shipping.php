@@ -1,20 +1,28 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']        = 'Estimate Shipping &amp; Taxes';
+$_['heading_title']        = 'Прогнозни доставка и данъци';
 
 // Text
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
-$_['text_shipping']        = 'Enter your destination to get a shipping estimate.';
-$_['text_shipping_method'] = 'Please select the preferred shipping method to use on this order.';
+$_['text_success']         = 'Успешно: Вашата прогнозна доставка е приложена!';
+$_['text_shipping']        = 'Въведете дестинация, за да се получи оценка на доставка.';
+$_['text_shipping_method'] = 'Моля изберете предпочитан метод на доставка.';
 
 // Entry
-$_['entry_country']        = 'Country';
-$_['entry_zone']           = 'Region / State';
-$_['entry_postcode']       = 'Post Code';
+$_['entry_country']        = 'Държава';
+$_['entry_zone']           = 'Регион / Област';
+$_['entry_postcode']       = 'ПК';
 
 // Error
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_shipping']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_postcode']       = 'Пощенски код трябва да бъде между 2 и 10 символа!';
+$_['error_country']        = 'Моля изберете страна!';
+$_['error_zone']           = 'Моля изберете регион / област!';
+$_['error_shipping']       = 'Внимание: Изисква се метод на доставка!';
+$_['error_no_shipping']    = 'Внимание: Няма достъпни опции за доставка. Моля <a href="%s">свържете се с нас</a> за повече информация!';

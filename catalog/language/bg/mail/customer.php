@@ -1,16 +1,24 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_subject']        = '%s - Thank you for registering';
-$_['text_welcome']        = 'Welcome and thank you for registering at %s!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_services']       = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_customer']   = 'New customer';
-$_['text_signup']         = 'A new customer has signed up:';
-$_['text_website']        = 'Web Site:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_subject']        = '%s - Благодарим ви, че се регистрирахте!';
+$_['text_welcome']        = 'Добре дошли и благодарим, че се регистрирахте в %s!';
+$_['text_login']          = 'Вашият профил е вече готов и можете да влезете в системата, използвайки посочените при регистрацията е-поща и парола, на следния адрес:';
+$_['text_approval']       = 'Вашата заявка очаква разглеждане от администратор. Веднага след като бъде одобрена, ще можете да влезете в системата с посочената от вас при регистрацията е-поща и парола на следния адрес:';
+$_['text_services']       = 'Влизайки в системата, вие ще имате достъп до още услуги, като преглед на предходни поръчки, отпечатване на фактури, промяна информацията към профила ви и др.';
+$_['text_thanks']         = 'Благодарим Ви!';
+$_['text_new_customer']   = 'Нов потребител';
+$_['text_signup']         = 'Нов потребител се записа:';
+$_['text_website']        = 'Сайт:';
+$_['text_customer_group'] = 'Клиентска група:';
+$_['text_firstname']      = 'Име:';
+$_['text_lastname']       = 'Фамилия:';
+$_['text_email']          = 'Имейл:';
+$_['text_telephone']      = 'Телефон:';

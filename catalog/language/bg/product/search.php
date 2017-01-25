@@ -1,34 +1,42 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']     = 'Search';
-$_['heading_tag']		= 'Tag - ';
+$_['heading_title']     = 'Търсене';
+$_['heading_tag']		= 'Таг - ';
 
 // Text
-$_['text_search']       = 'Products meeting the search criteria';
-$_['text_keyword']      = 'Keywords';
-$_['text_category']     = 'All Categories';
-$_['text_sub_category'] = 'Search in subcategories';
-$_['text_empty']        = 'There is no product that matches the search criteria.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_search']       = 'Продукти, отговарящи на критериите от търсенето';
+$_['text_keyword']      = 'Ключови думи';
+$_['text_category']     = 'Всички категории';
+$_['text_sub_category'] = 'Включи подкатегориите';
+$_['text_empty']        = 'Не бяха открити продукти, отговарящи на критериите от търсенето.';
+$_['text_quantity']     = 'Количество:';
+$_['text_manufacturer'] = 'Производител:';
+$_['text_model']        = 'Код на продукта:';
+$_['text_points']       = 'Наградни точки:';
+$_['text_price']        = 'Цена:';
+$_['text_tax']          = 'Без данък:';
+$_['text_reviews']      = 'На база %s отзива.';
+$_['text_compare']      = 'Продукти, добавени за сравняване: %s';
+$_['text_sort']         = 'Подредба:';
+$_['text_default']      = 'Основен';
+$_['text_name_asc']     = 'Име (А - Я)';
+$_['text_name_desc']    = 'Име (Я - А)';
+$_['text_price_asc']    = 'Цена (възх.)';
+$_['text_price_desc']   = 'Цена (низх.)';
+$_['text_rating_asc']   = 'Рейтинг (възх.)';
+$_['text_rating_desc']  = 'Рейтинг (низх.)';
+$_['text_model_asc']    = 'Модел (възх.)';
+$_['text_model_desc']   = 'Модел (низх.)';
+$_['text_limit']        = 'Покажи:';
 
 // Entry
-$_['entry_search']      = 'Search Criteria';
-$_['entry_description'] = 'Search in product descriptions';
+$_['entry_search']      = 'Търси';
+$_['entry_description'] = 'Търси в продуктовите описания';

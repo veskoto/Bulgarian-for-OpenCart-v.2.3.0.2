@@ -1,26 +1,36 @@
 <?php
-// Heading
-$_['heading_title']				= 'Login and Pay with Amazon';
-$_['heading_address']			= 'Please choose a delivery address';
-$_['heading_payment']			= 'Please select a payment method';
-$_['heading_confirm']			= 'Order summary';
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
+// Heading //TODO Better translate
+$_['heading_title']				= 'Плати с Amazon';
+$_['heading_address']			= 'Моля, изберете адрес за доставка';
+$_['heading_payment']			= 'Моля, изберете начин на плащане';
+$_['heading_confirm']			= 'Обощена поръчка';
+
 // Text
-$_['text_back']					= 'Back';
-$_['text_cart']					= 'Cart';
-$_['text_confirm']				= 'Confirm';
-$_['text_continue']				= 'Continue';
-$_['text_lpa']					= 'Login and Pay with Amazon';
-$_['text_enter_coupon']			= 'Enter your coupon code here. If you don\'t have one, leave it empty.';
-$_['text_coupon']				= 'Coupon';
-$_['text_tax_other']			= 'Taxes / Other handling fees';
-$_['text_success_title']		= 'Your order has been placed!';
-$_['text_payment_success']		= 'Your order was successfully placed. Order details are below';
+$_['text_back']					= 'Назад';
+$_['text_cart']					= 'Количка';
+$_['text_confirm']				= 'Потвърди';
+$_['text_continue']				= 'Продължи';
+$_['text_lpa']					= 'Плати с Amazon';
+$_['text_enter_coupon']			= 'Въведете вашия купон тук. В случай, че не разполагате с купон, оставете празно.';
+$_['text_coupon']				= 'Купон';
+$_['text_tax_other']			= 'Такси и данъци';
+$_['text_success_title']		= 'Поръчката Ви е направена успешно!';
+$_['text_payment_success']		= 'Поръчката Ви е направена успешно. Подробности за поръчката може да намерите по-долу';
+
 // Error
-$_['error_payment_method']		= 'Please select a payment method';
-$_['error_shipping']			= 'Please select a shipping method';
-$_['error_shipping_address']	= 'Please select a delivery address';
-$_['error_shipping_methods']	= 'There was an error retrieving your address from Amazon. Please contact the shop administrator for help.';
-$_['error_no_shipping_methods'] = 'There are no shipping options to the selected address. Please select a different shipping address.';
+$_['error_payment_method']		= 'Моля, изберете начин на плащане';
+$_['error_shipping']			= 'Моля, изберете начин за доставка';
+$_['error_shipping_address']	= 'Моля, изберете адрес за доставка';
+$_['error_shipping_methods']	= 'Възникна грешка при извличането на вашия адрес от Amazon. Моля, свържете се с администратора на магазина за помощ.';
+$_['error_no_shipping_methods'] = 'Не са открити варианти на доставка на избрания адрес. Моля, изберете друг адрес за доставка';
 $_['error_process_order']		= 'There was an error processing your order. Please contact the shop administrator for help.';
 $_['error_login']				= 'Login failed';
 $_['error_login_email']			= 'Login failed: %s account email address did not match Amazon account email address';

@@ -1,42 +1,50 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']            = 'Shopping Cart';
+$_['heading_title']            = 'Количка';
 
 // Text
-$_['text_success']             = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']              = 'Success: You have modified your shopping cart!';
-$_['text_login']               = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-$_['text_items']               = '%s item(s) - %s';
-$_['text_points']              = 'Reward Points: %s';
-$_['text_next']                = 'What would you like to do next?';
-$_['text_next_choice']         = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_empty']               = 'Your shopping cart is empty!';
-$_['text_day']                 = 'day';
-$_['text_week']                = 'week';
-$_['text_semi_month']          = 'half-month';
-$_['text_month']               = 'month';
-$_['text_year']                = 'year';
-$_['text_trial']               = '%s every %s %s for %s payments then ';
-$_['text_recurring']           = '%s every %s %s';
-$_['text_length']              = ' for %s payments';
-$_['text_until_cancelled']     = 'until cancelled';
-$_['text_recurring_item']      = 'Recurring Item';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
+$_['text_success']             = 'Успешно добавихте <a href="%s">%s</a> към вашата <a href="%s">Количка</a>!';
+$_['text_remove']              = 'Успешно променихте вашата количка';
+$_['text_login']               = 'Внимание: Нужно е да влезете във вашия <a href="%s">профил</a> или да <a href="%s">създадете профил</a> , за да видите цената!';
+$_['text_items']               = '%s продукт(а) - %s';
+$_['text_points']              = 'Наградни точки: %s';
+$_['text_next']                = 'Изберете как да продължите?';
+$_['text_next_choice']         = 'Моля, изберете ако имате код за отстъпка или наградни точки, които искате да използвате или бихте искали да изчислите разходите си за доставка';
+$_['text_empty']               = 'Вашата кошницата е празна!';
+$_['text_day']                 = 'ден';
+$_['text_week']                = 'седмица';
+$_['text_semi_month']          = 'половин месец';
+$_['text_month']               = 'месец';
+$_['text_year']                = 'години';
+$_['text_trial']               = '%s всеки %s %s за %s плащания тогава ';
+$_['text_recurring']           = '%s всеки %s %s';
+$_['text_length']              = ' за %s плащания';
+$_['text_until_cancelled']     = 'докато не бъде отменено';
+$_['text_recurring_item']      = 'Продукт за връщане';
+$_['text_payment_recurring']   = 'Профил Плащания';
+$_['text_trial_description']   = '%s всеки %d %s(а) за %d плащания тогава';
+$_['text_payment_description'] = '%s всеки %d %s(а) за %d плащания';
+$_['text_payment_cancel']      = '%s всеки %d %s(а) докато не бъде отменен';
 
 // Column
-$_['column_image']             = 'Image';
-$_['column_name']              = 'Product Name';
-$_['column_model']             = 'Model';
-$_['column_quantity']          = 'Quantity';
-$_['column_price']             = 'Unit Price';
-$_['column_total']             = 'Total';
+$_['column_image']             = 'Снимка';
+$_['column_name']              = 'Име на продукт';
+$_['column_model']             = 'Модел';
+$_['column_quantity']          = 'Количество';
+$_['column_price']             = 'Ед. цена';
+$_['column_total']             = 'Общо';
 
 // Error
-$_['error_stock']              = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']            = 'Minimum order amount for %s is %s!';
-$_['error_required']           = '%s required!';
-$_['error_product']            = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';
+$_['error_stock']              = 'Продуктите, отбелязани с ***, не са налични в желаното количество или са изчерпани.';
+$_['error_minimum']            = 'Минималното количество за поръчка %s е %s!';
+$_['error_required']           = '%s задължително!';
+$_['error_product']            = 'Вниание: Вашата количка е празна!';
+$_['error_recurring_required'] = 'Моля изберете повтарящи се плащания!';

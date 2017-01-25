@@ -1,7 +1,15 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_items']     = '%s item(s) - %s';
-$_['text_empty']     = 'Your shopping cart is empty!';
-$_['text_cart']      = 'View Cart';
-$_['text_checkout']  = 'Checkout';
-$_['text_recurring'] = 'Payment Profile';
+$_['text_items']     = '%s продукт(а) - %s';
+$_['text_empty']     = 'Вашата количка е празна!';
+$_['text_cart']      = 'Виж количката';
+$_['text_checkout']  = 'Плащане';
+$_['text_recurring'] = 'Профил плащания';

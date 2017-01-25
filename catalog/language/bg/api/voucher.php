@@ -1,14 +1,22 @@
 <?php
+/*
+ * OpenCart 2.3.0.2 Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_success']     = 'Success: Your gift voucher discount has been applied!';
-$_['text_cart']        = 'Success: You have modified your shopping cart!';
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_success']     = 'Успешно приложихте ваучера!';
+$_['text_cart']        = 'Успешно променихте кошницата!';
+$_['text_for']         = '%s Ваучер за подарък за %s';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_voucher']    = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
+$_['error_permission'] = 'Внимание: нямате достъп!';
+$_['error_voucher']    = 'Внимание: Ваучер за подарък невалиден или лимитът е достигнат!';
+$_['error_to_name']    = 'Името на получателя трябва да бъде между 1 и 64 символа!';
+$_['error_from_name']  = 'Вашето име трябва да бъде между 1 и 64 символа!';
+$_['error_email']      = 'Имейл адресът не е валиден!';
+$_['error_theme']      = 'Трябва да изберете тема!';
+$_['error_amount']     = 'Сумата трябва да бъде между %s и %s!';
