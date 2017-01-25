@@ -4,4 +4,4 @@
 ### Лиценз: Free to use, Free to edit, Free to commit changes. Free
 ### Почерпете бира :) :
 ####PayPal: veselin.totev@gmail.com
-####Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+####Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi

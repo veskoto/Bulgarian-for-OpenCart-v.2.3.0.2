@@ -5,6 +5,6 @@
  * License: Free to use
  * Donate:
  *      PayPal: veskoto@gmail.com
- *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
  */
 $_['text_low_order_fee'] = 'Такса малка поръчка';

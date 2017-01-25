@@ -5,7 +5,7 @@
  * License: Free to use
  * Donate:
  *      PayPal: veskoto@gmail.com
- *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
  */
 // Text
 $_['text_footer']  = '<a href="http://www.opencart.com">OpenCart</a> &copy; 2009-' . date('Y') . ' All Rights Reserved.';
