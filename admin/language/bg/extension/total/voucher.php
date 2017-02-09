@@ -1,9 +1,10 @@
 <?php
 // Heading
-$_['heading_title']    = 'Gift Voucher';
+$_['heading_title']    = 'Ваучери';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'Преди плащане на поръчки';
+$_['text_extension']   = 'Преди плащане на поръчки';
 $_['text_success']     = 'Success: You have modified gift voucher total!';
 $_['text_edit']        = 'Edit Gift Voucher Total';
 

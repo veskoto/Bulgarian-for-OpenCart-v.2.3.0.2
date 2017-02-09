@@ -44,8 +44,8 @@ $_['entry_type']            = 'Тип';
 $_['entry_value']           = 'Стойност';
 $_['entry_validation']      = 'Валидация';
 $_['entry_custom_value']    = 'Заглавие на стойността';
-$_['entry_customer_group']  = 'Клиентска група';
-$_['entry_required']        = 'Задължително';
+$_['entry_customer_group']  = 'За клиентска група';
+$_['entry_required']        = 'Задължително за';
 $_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Подредба';
 

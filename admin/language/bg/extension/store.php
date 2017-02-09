@@ -22,7 +22,7 @@ $_['text_payment']     = 'Портали плащане';
 $_['text_shipping']    = 'Начини на доставка';
 $_['text_module']      = 'Модули';
 $_['text_total']       = 'Поръчки';
-$_['text_feed']        = 'Product Feeds';
+$_['text_feed']        = 'Информационни канали за продукти';
 $_['text_report']      = 'Доклади';
 $_['text_other']       = 'Други';
 

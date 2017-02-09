@@ -29,7 +29,7 @@ $_['column_action']        = 'Действие';
 
 // Entry
 $_['entry_name']           = 'Име';
-$_['entry_rate']           = 'ставка';
+$_['entry_rate']           = 'Ставка';
 $_['entry_type']           = 'Тип';
 $_['entry_customer_group'] = 'Клиентска група';
 $_['entry_geo_zone']       = 'За зона';

@@ -7,7 +7,7 @@
  *      PayPal: veselin.totev@gmail.com
  *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
  */
-//TODO translate
+
 // Heading
 $_['heading_title']    = 'Езиков превод';
 

@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']		 = 'Bank Transfer';
+$_['heading_title']		 = 'По банка';
 
 // Text
-$_['text_extension']	 = 'Extensions';
+$_['text_extension']	 = 'Плащания';
 $_['text_success']		 = 'Success: You have modified bank transfer details!';
-$_['text_edit']          = 'Edit Bank Transfer';
+$_['text_edit']          = 'Редакция';
 
 // Entry
-$_['entry_bank']		 = 'Bank Transfer Instructions';
-$_['entry_total']		 = 'Total';
-$_['entry_order_status'] = 'Order Status';
-$_['entry_geo_zone']	 = 'Geo Zone';
-$_['entry_status']		 = 'Status';
-$_['entry_sort_order']	 = 'Sort Order';
+$_['entry_bank']		 = 'Инструкции за плащане по банка';
+$_['entry_total']		 = 'Сума над която ще бъде активно';
+$_['entry_order_status'] = 'Статус на поръчката';
+$_['entry_geo_zone']	 = 'За зона';
+$_['entry_status']		 = 'Статус';
+$_['entry_sort_order']	 = 'Подредба';
 
 // Help
-$_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.'; 
+$_['help_total']		 = 'Сумата, която трябва да бъде достигната за да бъде активно плащане по банка.';
 
 // Error 
 $_['error_permission']   = 'Warning: You do not have permission to modify payment bank transfer!';
-$_['error_bank']         = 'Bank Transfer Instructions Required!';
+$_['error_bank']         = 'Инструкции за плащане по банка са задължителни!';

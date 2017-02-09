@@ -11,7 +11,8 @@
 $_['heading_title']    = 'Sub-Total';
 
 // Text
-$_['text_total']       = 'Всичко поръчки';
+$_['text_total']       = 'Преди плащане на поръчки';
+$_['text_extension']   = 'Преди плащане на поръчки';
 $_['text_success']     = 'Успешно: Променихте sub-total total!';
 $_['text_edit']        = 'Редакция Sub-Total Total';
 

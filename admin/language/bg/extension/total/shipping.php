@@ -11,7 +11,8 @@
 $_['heading_title']    = 'Доставка';
 
 // Text
-$_['text_total']       = 'Всичко поръчки';
+$_['text_total']       = 'Преди плащане на поръчки';
+$_['text_extension']   = 'Преди плащане на поръчки';
 $_['text_success']     = 'Успешно: Променихте доставка!';
 $_['text_edit']        = 'Редакция Shipping Total';
 

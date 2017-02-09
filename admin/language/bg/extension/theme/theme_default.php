@@ -11,8 +11,8 @@
 $_['heading_title']                    = 'Дизайн на магазина';
 
 // Text
-$_['text_theme']                       = 'Дизайни';
-$_['text_extension']                   = 'Модули';
+$_['text_theme']                       = 'Дизайн';
+$_['text_extension']                   = 'Дизайн';
 $_['text_success']                     = 'Успешно: Променихте дизайна на магазина!';
 $_['text_edit']                        = 'Редакция';
 $_['text_general']                     = 'Основни';

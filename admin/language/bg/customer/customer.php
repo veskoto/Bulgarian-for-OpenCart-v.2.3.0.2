@@ -23,7 +23,7 @@ $_['column_name']           = 'Име';
 $_['column_email']          = 'Имейл';
 $_['column_customer_group'] = 'Клиентска група';
 $_['column_status']         = 'Статус';
-$_['column_date_added']     = 'Датата на добавяне';
+$_['column_date_added']     = 'Датата на регистрация';
 $_['column_comment']        = 'Коментар';
 $_['column_description']    = 'Описание';
 $_['column_amount']         = 'Количество';
@@ -59,7 +59,7 @@ $_['entry_amount']          = 'Количество';
 $_['entry_points']          = 'Точки';
 $_['entry_name']            = 'Име';
 $_['entry_ip']              = 'IP';
-$_['entry_date_added']      = 'Датата на добавяне';
+$_['entry_date_added']      = 'Датата на регистрация';
 
 // Help
 $_['help_safe']             = 'Задава се вярно да се избегне този клиент да бъдат уловени от системата за борба с измамите';
