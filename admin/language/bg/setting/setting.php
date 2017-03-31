@@ -38,7 +38,7 @@ $_['text_mail_order']              = 'Поръчки';
 $_['text_mail_review']             = 'Отзиви';
 $_['text_general']                 = 'Основни';
 $_['text_security']                = 'Сигурност';
-$_['text_upload']                  = 'Кавания';
+$_['text_upload']                  = 'Качвания';
 $_['text_error']                   = 'Обработка на грешки';
 
 // Entry
